@@ -2,7 +2,6 @@
 #include <iostream>
 #include <limits>
 #include <math.h>
-#include <cmath>
 #include <fstream>
 #include <sstream>
 #include <vector>
